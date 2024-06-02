@@ -1,0 +1,19 @@
+{
+  "name": "clustering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "loadash": "^1.0.0",
+    "loadtest": "^8.0.9",
+    "pm2": "^5.4.0"
+  }
+}
